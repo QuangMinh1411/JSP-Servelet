@@ -1,0 +1,8 @@
+<html>
+
+<body>
+Converting a string to uppercase: <%= new String("Hello guys").toUpperCase() %>
+
+</body>
+
+</html>

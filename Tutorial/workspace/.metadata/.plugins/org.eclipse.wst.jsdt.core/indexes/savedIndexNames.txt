@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/quangminh/Documents/Backend/Java/JSP Servelets and JDBC for beginners/Tutorial/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3878318181.index
+397597023.index
+3649717430.index
+309455463.index
+1519293767.index
+3922731812.index
+715427951.index

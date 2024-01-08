@@ -1,0 +1,17 @@
+127.0.0.1 - - [05/Jan/2024:21:41:31 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:21:41:32 +0700] "GET /jspdemo/hello.jsp HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:21:41:32 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [05/Jan/2024:21:54:44 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:21:54:44 +0700] "GET /jspdemo/expression-test.jsp HTTP/1.1" 200 77
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:21:55:00 +0700] "GET /jspdemo/expression-test.jsp HTTP/1.1" 200 77
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:21:55:38 +0700] "GET /jspdemo/expression-test.jsp HTTP/1.1" 200 118
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:21:56:23 +0700] "GET /jspdemo/expression-test.jsp HTTP/1.1" 200 153
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:22:00:37 +0700] "GET /jspdemo/expression-test.jsp HTTP/1.1" 200 154
+127.0.0.1 - - [05/Jan/2024:22:02:24 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:22:02:25 +0700] "GET /jspdemo/scriptlet-test.jsp HTTP/1.1" 200 173
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:22:03:09 +0700] "GET /jspdemo/scriptlet-test.jsp HTTP/1.1" 200 163
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:22:03:44 +0700] "GET /jspdemo/scriptlet-test.jsp HTTP/1.1" 200 112
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:22:03:57 +0700] "GET /jspdemo/scriptlet-test.jsp HTTP/1.1" 200 153
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:22:04:17 +0700] "GET /jspdemo/scriptlet-test.jsp HTTP/1.1" 200 148
+127.0.0.1 - - [05/Jan/2024:22:09:11 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Jan/2024:22:09:12 +0700] "GET /jspdemo/declaration-test.jsp HTTP/1.1" 200 67
